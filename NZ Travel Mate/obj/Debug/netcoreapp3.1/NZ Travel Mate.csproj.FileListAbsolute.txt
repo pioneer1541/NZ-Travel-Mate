@@ -1,0 +1,31 @@
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.exe
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.deps.json
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.runtimeconfig.json
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.runtimeconfig.dev.json
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.pdb
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate_MarkupCompile.cache
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate_MarkupCompile.lref
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.g.resources
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.AssemblyInfoInputs.cache
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.AssemblyInfo.cs
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.csproj.CoreCompileInputs.cache
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.csproj.CopyComplete
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.dll
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.pdb
+C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\obj\Debug\netcoreapp3.1\NZ Travel Mate.genruntimeconfig.cache

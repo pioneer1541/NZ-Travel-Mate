@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NZTravelMate</id>
+    <version>1.0.0</version>
+    <authors>Vincent</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Json.Net" version="1.0.23" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http" version="2.2.2" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="106.11.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.runtimeconfig.json" target="lib\netcoreapp3.1\NZ Travel Mate.runtimeconfig.json" />
+    <file src="C:\Users\pione\source\repos\NZ Travel Mate\NZ Travel Mate\bin\Debug\netcoreapp3.1\NZ Travel Mate.dll" target="lib\netcoreapp3.1\NZ Travel Mate.dll" />
+  </files>
+</package>
